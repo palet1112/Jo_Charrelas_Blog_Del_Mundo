@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: gold;
+}
+
+nav>ul>li{
+    color: yellow;
+}
+
+article{
+    color: gold;
+}
+#tituloblog{
+    text-align: center;
+    font-size: 3rem;
+}
